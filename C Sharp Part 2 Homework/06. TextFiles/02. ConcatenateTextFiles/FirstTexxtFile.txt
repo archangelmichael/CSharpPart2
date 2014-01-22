@@ -1,0 +1,4 @@
+﻿First line from first text file
+Second line from first text file
+third line from first text file
+End of first text file

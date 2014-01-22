@@ -1,0 +1,18 @@
+﻿3 3 3
+(S L)(E)(S L) | (S L)(S R)(S L) | (B)(S F)(S L) 
+(S B)(S F)(E) | (S B)(S F)(T 1 1)  | (S L)(S R)(B)
+(S FL)(S FL)(S FR) | (S FL)(S FL)(S FR) | (S F)(S BR)(S FR)
+1 1	
+
+Yes
+1 2 0
+
+
+3 3 3
+(S L)(E)(S L) | (S L)(S R)(S L) | (B)(S F)(S L) 
+(S B)(S R)(E) | (S B)(S F)(T 1 1)  | (S L)(S R)(B)
+(S FL)(S FL)(B) | (S FL)(S FL)(S FR) | (S F)(S BR)(S FR)
+1 0	
+
+No
+2 2 0

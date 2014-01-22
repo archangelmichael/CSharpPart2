@@ -1,0 +1,4 @@
+﻿foreach (Match item in Regex.Matches(str, @"\b(?<N>.)+.?(?<-N>\k<N>)+(?(N)(?!))\b")) 
+{
+    Console.WriteLine(item);
+}
